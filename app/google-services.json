@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025454338919",
+    "firebase_url": "https://exampractice-f21b3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "exampractice-f21b3",
+    "storage_bucket": "exampractice-f21b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025454338919:android:4b15085342d21b2428b5c2",
+        "android_client_info": {
+          "package_name": "com.example.exampractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025454338919-g0nsuhuibqfh19ba141q778mq43qp18j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWizlDJxF2Y1Yl7tDqHeIjUtPbfH_8dNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025454338919-g0nsuhuibqfh19ba141q778mq43qp18j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
